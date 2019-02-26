@@ -1,16 +1,19 @@
 # Simple slideshow with onclick change
 
-An slideshow that changes the source of the big image by clicking any of the images on the side [codepen sample](https://codepen.io/queflojera/details/vbWjJe)
+An interactive text section that works responsive [codepen sample](https://codepen.io/queflojera/details/xMOexx)
 
 
 ## Slideshow samples
 ---
 
 
-![sample #1](https://github.com/angelparkour499/change-image/blob/master/sample.png)
-![sample #2](https://github.com/angelparkour499/change-image/blob/master/Sample%202.png)
+![sample #1](https://github.com/angelparkour499/interactive-text-area/blob/master/sample.png)
+![sample #2](https://github.com/angelparkour499/interactive-text-area/blob/master/sample%202.png)
+## onhover sample
 
+![sample #3](https://github.com/angelparkour499/interactive-text-area/blob/master/sample%203.png)
 ## Responsive sample
-![sample #3](https://github.com/angelparkour499/change-image/blob/master/Sample%203.png)
+---
 
-*Works great with the [onhover image zoom](https://github.com/angelparkour499/onhover-image-zoom)*
+![sample #4](https://github.com/angelparkour499/interactive-text-area/blob/master/responsive%20sample.png)
+![sample #5](https://github.com/angelparkour499/interactive-text-area/blob/master/responsive%20sample%202.png)
